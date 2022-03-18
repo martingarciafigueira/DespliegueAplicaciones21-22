@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cartas","l":"Baraja"},{"p":"cartas","l":"BarajaEspanhola"},{"p":"cartas","l":"BarajaFrancesa"},{"p":"cartas","l":"Carta"}]
